@@ -44,7 +44,7 @@ function ShowPost() {
               <button
                 className="btn btn-secondary mt-3"
                 onClick={() => deleteData(item.id)}
-              >
+                >
                 Delete
               </button>
             </div>
